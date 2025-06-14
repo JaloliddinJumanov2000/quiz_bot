@@ -3,7 +3,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import Message
 
 from utils.db.database import User, session
-from utils.helper import check_register2
+from utils.helper import check_register
 from aiogram.utils.i18n import gettext as _
 
 start_router = Router()

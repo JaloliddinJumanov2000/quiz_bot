@@ -22,7 +22,10 @@ dp = Dispatcher()
 
 async def main() -> None:
     bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+
     dp.include_routers(start_router, register_router, menu_router)
+
+
     dp.startup.register(bot_start_up)
     dp.shutdown.register(bot_shut_down)
 
