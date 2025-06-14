@@ -1,0 +1,112 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-12 21:18+0500\n"
+"PO-Revision-Date: 2025-06-12 20:45+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers/menu.py:9
+msgid "Testlar"
+msgstr ""
+
+#: handlers/menu.py:11
+msgid "Barcha testlar"
+msgstr ""
+
+#: handlers/menu.py:14 keyboards/reply/button.py:37
+msgid "Natijalar"
+msgstr ""
+
+#: handlers/menu.py:16
+msgid "Barcha Natijalar"
+msgstr ""
+
+#: handlers/register.py:18
+msgid "To`liq ismingiz: "
+msgstr ""
+
+#: handlers/register.py:28
+msgid "Telefon raqamingizni kiriting!"
+msgstr ""
+
+#: handlers/register.py:45
+msgid ""
+"Ma`lumotlaringizni tasdiqlaysizmi?\n"
+"\n"
+"To'liq ism: {fullname}\n"
+"Telefon: {phone}\n"
+"Chat ID: {user_id}\n"
+msgstr ""
+"🎉 Ma`lumotlaringizni tasdiqlaysizmi?\n"
+"\n"
+"To'liq ism: {fullname}\n"
+"Telefon: {phone}\n"
+"Chat ID: {user_id}\n"
+
+#: handlers/register.py:60
+msgid "ha"
+msgstr ""
+
+#: handlers/register.py:70 utils/helper.py:11
+msgid "Botdan foydalanishga xush kelibsiz!"
+msgstr ""
+
+#: handlers/register.py:74
+msgid "yo`q"
+msgstr ""
+
+#: handlers/register.py:75
+msgid "Qayta ro`yxatdan o`tish uchun  👉 /register kamandasini bosing"
+msgstr ""
+
+#: handlers/register.py:79
+msgid "Ha yoki Yo`q bilan tasdiqlang iltimos!"
+msgstr ""
+
+#: handlers/start.py:17
+msgid ""
+"Salom, {name}!\n"
+"\n"
+" Ro'yxatdan o'tish uchun  👉 /register kamandasini bosing"
+msgstr ""
+
+#: keyboards/reply/button.py:9
+msgid "Ha"
+msgstr ""
+
+#: keyboards/reply/button.py:10
+msgid "Yo`q"
+msgstr ""
+
+#: keyboards/reply/button.py:16 keyboards/reply/button.py:29
+msgid "Tugamadan foydalaning!"
+msgstr ""
+
+#: keyboards/reply/button.py:23
+msgid "📲 Telefon ulashish"
+msgstr ""
+
+#: keyboards/reply/button.py:36
+msgid "Test yechish"
+msgstr ""
+
+#: utils/notify_admins.py:11
+msgid "Bot ishga tushdi!"
+msgstr ""
+
+#: utils/notify_admins.py:19
+msgid "Bot o'chdi!"
+msgstr ""
