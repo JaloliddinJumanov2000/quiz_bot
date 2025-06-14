@@ -1,4 +1,3 @@
-
 from sqlalchemy import (create_engine, Column, Integer,
                         String, BigInteger)
 from sqlalchemy.orm import declarative_base, sessionmaker

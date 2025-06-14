@@ -18,6 +18,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.13.1\n"
 
+
+
+
 #: handlers/menu.py:9
 msgid "Testlar"
 msgstr ""
@@ -110,3 +113,9 @@ msgstr ""
 #: utils/notify_admins.py:19
 msgid "Bot o'chdi!"
 msgstr ""
+
+
+msgid "Til muvaffaqiyatli o'zgartirildi!"
+msgstr "Til muvaffaqiyatli o'zgartirildi!"
+
+
